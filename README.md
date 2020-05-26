@@ -16,12 +16,5 @@ Diana
 Ali
 Heloise
 
-##Contributeurs:
-
-Diana
-Ali
-Heloise
-
-
 
 

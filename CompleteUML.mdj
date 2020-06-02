@@ -1014,7 +1014,7 @@
 									"font": "Arial;13;0",
 									"left": 600,
 									"top": 204.5,
-									"width": 114.78076171875,
+									"width": 114,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyVg51tQW0arE="
@@ -1791,7 +1791,7 @@
 									"font": "Arial;13;0",
 									"left": 320,
 									"top": 444.5,
-									"width": 75.03173828125,
+									"width": 74,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyVhQ+3wahf5E="
@@ -1990,7 +1990,7 @@
 									"font": "Arial;13;0",
 									"left": 311,
 									"top": 364.5,
-									"width": 108.95361328125,
+									"width": 108,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyVhVlhQcwHds="
@@ -2388,7 +2388,7 @@
 									"font": "Arial;13;0",
 									"left": 281.5,
 									"top": 540.5,
-									"width": 160.236328125,
+									"width": 159,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyViFyyQgcRcU="
@@ -2685,7 +2685,7 @@
 									"font": "Arial;13;0",
 									"left": 301,
 									"top": 172.5,
-									"width": 140.0380859375,
+									"width": 140,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyVjcPDgj3DZY="
@@ -2884,7 +2884,7 @@
 									"font": "Arial;13;0",
 									"left": 308.5,
 									"top": 39,
-									"width": 97.419921875,
+									"width": 96,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFyVjuZlgkv/cM="
@@ -11232,7 +11232,7 @@
 									"top": 101,
 									"width": 163.6181640625,
 									"height": 13,
-									"text": "Authentification"
+									"text": "Credentials"
 								},
 								{
 									"_type": "ERDColumnCompartmentView",
@@ -12212,7 +12212,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFyYLS/GHKPcNg="
 							},
-							"name": "authentification_id",
+							"name": "credentials_id",
 							"length": 0,
 							"unique": true
 						},
@@ -12532,7 +12532,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFyYLMHfnJQYm0="
 					},
-					"name": "Authentification",
+					"name": "Credentials",
 					"columns": [
 						{
 							"_type": "ERDColumn",
